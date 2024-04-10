@@ -56,7 +56,7 @@ class _SplashScreenState extends State<SplashScreen> {
           children: [
             ClipRRect(borderRadius: BorderRadius.circular(10), child: Image.asset(Images.logo, width: 150)),
             const SizedBox(height: 20),
-            Text(AppConstants.appName, style: rubikBold.copyWith(fontSize: 30, color: Theme.of(context).primaryColor), textAlign: TextAlign.center),
+            // Text(AppConstants.appName, style: rubikBold.copyWith(fontSize: 30, color: Theme.of(context).primaryColor), textAlign: TextAlign.center),
           ],
         ),
       ),
