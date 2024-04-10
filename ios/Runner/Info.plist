@@ -12,6 +12,8 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>eFood Delivery Boy</string>
+	<key>CFBundleDisplayName</key>
+    <string>Taste-Trek&#x2007;Delivery</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

@@ -1,4 +1,4 @@
-package com.sixamtech.efood_delivery
+package com.sixamtech.taste_trek_delivery
 
 import io.flutter.embedding.android.FlutterActivity
 

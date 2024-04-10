@@ -769,10 +769,10 @@ packages:
     dependency: "direct main"
     description:
       name: phone_number
-      sha256: c66d3e2f2c69ce95f10bb923957049b1e5b8c6efea02d7366353fa3b80d4338a
+      sha256: "509033faaed1e95f778b9dd6679a458d4e2641c579d40bee0db1cb674de8efac"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.0"
+    version: "2.0.1"
   platform:
     dependency: transitive
     description:
