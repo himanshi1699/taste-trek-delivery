@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 /// errors : [{"code":"l_name","message":"The last name field is required."},{"code":"password","message":"The password field is required."}]
 
 class ErrorResponse {
@@ -11,6 +13,8 @@ class ErrorResponse {
 }
 
   ErrorResponse.fromJson(dynamic json) {
+    print('json errors');
+    print(jsonDecode(json));
     if (json["errors"] != null) {
       _errors = [];
       json["errors"].forEach((v) {
