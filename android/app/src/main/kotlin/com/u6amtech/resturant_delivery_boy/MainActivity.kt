@@ -1,4 +1,4 @@
-package com.sixamtech.taste_trek_delivery
+package com.sixamtech.tastetrek
 
 import io.flutter.embedding.android.FlutterActivity
 
